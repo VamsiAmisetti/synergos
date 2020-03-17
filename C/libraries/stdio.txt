@@ -1,2 +1,2 @@
-standard i/o header file
+standard Input Output header file
 
