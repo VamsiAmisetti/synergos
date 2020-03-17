@@ -1,2 +1,3 @@
 standard i/o header file
+Contains prototypes of input and output functions in c
 
